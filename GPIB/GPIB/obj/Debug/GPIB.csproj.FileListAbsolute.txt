@@ -1,0 +1,15 @@
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.csprojResolveAssemblyReference.cache
+D:\C#\GPIB\GPIB\bin\Debug\GPIB.exe
+D:\C#\GPIB\GPIB\bin\Debug\GPIB.pdb
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.exe
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.pdb
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.MainForm.resources
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.csproj.GenerateResource.Cache
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.FormLogin.resources
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.FormCRUD.resources
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.DataSektor.resources
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.DataPelkat.resources
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.DataKelurga.resources
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.DataDarah.resources
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.DataLahir.resources
+D:\C#\GPIB\GPIB\obj\Debug\GPIB.DataNikah.resources
